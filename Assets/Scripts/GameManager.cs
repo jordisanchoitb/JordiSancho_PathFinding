@@ -13,6 +13,11 @@ public class GameManager : MonoBehaviour
     private Node[,] NodeMatrix;
     private int startPosx, startPosy;
     private int endPosx, endPosy;
+    private List<Node> OpenList;
+    private List<Node> ClosedList;
+    private List<Node> FinalPath;
+    private List<Node> TempPath;
+
     void Awake()
     {
         Instance = this;
