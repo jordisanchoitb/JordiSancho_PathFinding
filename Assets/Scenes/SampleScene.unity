@@ -246,6 +246,10 @@ MonoBehaviour:
   Size: 8
   Panel: {fileID: 1593313577}
   token: {fileID: 762362213633481467, guid: d17134a25efa0974991a0fb2f9cab3f0, type: 3}
+  prefabPlayer: {fileID: 8784709374737778206, guid: e1b8306aca7b63c4380a03eaad56faae, type: 3}
+  prefabYellow: {fileID: 440366957600962622, guid: c2fb3adabb5689a43b89315a858f18e9, type: 3}
+  prefabGreen: {fileID: 2641781301459794925, guid: cea437e0f1e9dcd4690f7c74fbc2ae52, type: 3}
+  prefabFinal: {fileID: 5918383732435251400, guid: a55de28736aa86f47841ba43acfaadee, type: 3}
 --- !u!4 &1495351874
 Transform:
   m_ObjectHideFlags: 0
