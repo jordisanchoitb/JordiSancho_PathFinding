@@ -18,8 +18,6 @@ public class GameManager : MonoBehaviour
     public BoxCollider2D Panel;
     public GameObject token;
     public GameObject prefabPlayer;
-    public GameObject prefabYellow;
-    public GameObject prefabGreen;
     public GameObject prefabFinal;
     #endregion
 
